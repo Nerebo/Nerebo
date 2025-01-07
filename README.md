@@ -66,7 +66,8 @@ class carlosmagno2.0 {
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
 [![TrivC](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=TrivCCyclic&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/TrivCCyclic.git)
 [![Sublime](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=SUBlime&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/SUBlime.git)
-[![TrivC](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pris.ME&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pris.ME.git)
+[![Pris.ME](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pris.ME&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pris.ME.git)
+[![BDGuest](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=BDGuest&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/BDGuest.git)
 
 ## Most Useds languages
 
