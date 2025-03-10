@@ -28,7 +28,7 @@ class carlosmagno2.0 {
 ```
 
 - 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/CESARBR)
-- 🦆 Estou atualmente estudando: Python, C<br>
+- 🦆 Estou atualmente estudando: Java, Python, React<br>
 - 💬 Me pergunte sobre: `Game Dev, Fate and Cold Wave Songs `<br>
 
 
